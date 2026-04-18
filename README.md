@@ -63,7 +63,7 @@ I am interested in building efficient bridges between backends and frontends, wh
 
 <div align="center">
   <div style="margin-bottom: 10px;">
-    <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" height="180px" />
+    <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" height="176px" />
   </div>
 
   <div style="margin-bottom: 10px;">
@@ -79,7 +79,7 @@ I am interested in building efficient bridges between backends and frontends, wh
 
 ---
 
-### 📫 Get in Touch
+### 📫 Contact with me
 - **Email:** `Lumivers@outlook.com`
 
 <p align="center">
